@@ -23,3 +23,18 @@ artículos y su precio.
 carro_view.php:
 
 ![image](https://github.com/user-attachments/assets/5d0733a7-f58b-4858-9a0e-f5747b917ca7)
+
+calificaciones.php:Crear una pequeña aplicación que permita la gestión académica del módulo de DWES. Interesa
+almacenar las notas de cada trimestre y mostrar un informe con las notas la media y el nombre
+de los alumnos. Tambiés debe haber un botón/enlace para borrar los datos.
+
+calificaciones_view.php:
+
+![image](https://github.com/user-attachments/assets/16adf939-3848-4556-8f6c-dd3e369d4ac5)
+
+calificaciones.php:
+
+![image](https://github.com/user-attachments/assets/27c37443-2621-4b9f-807a-42e34aefeab6)
+
+
+
