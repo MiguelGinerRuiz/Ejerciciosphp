@@ -55,6 +55,25 @@ Palindromo.php: Escribe una función que devuelva un booleano indicando si una p
 
 ![image](https://github.com/user-attachments/assets/08cc8207-38cc-4a93-8fb5-fc80e94542d6)
 
+Queremos realizar una página en el servidor que me genere de forma aleatoria una apuesta de primitiva
+u otra de euromillones. Para realizar el script en PHP deberemos tener en cuenta que:
+• PRIMITIVA Una apuesta de 6 números entre 49 posibles (del 1 al 49).
+• EUROMILLONES Una apuesta de 5 números entre 50 posibles (del 1 al 50) más 2 estrellas de entre
+9 posibles (del 1 al 9).
+
+loteria.html:
+
+![image](https://github.com/user-attachments/assets/ab33684f-e6e0-4fb3-a17f-7951c508a16b)
+
+Euromillon.php:
+
+![image](https://github.com/user-attachments/assets/3596e74c-9a88-42bf-b582-4f0c2941c176)
+
+
+Primitiva.php:
+
+![image](https://github.com/user-attachments/assets/a02e02d5-b84d-44b6-ae82-8be21b201766)
+
 
 
 
